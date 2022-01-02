@@ -19,12 +19,12 @@ DEEM sewaktu waktu berhak merubah persyaratan dan harga produk tanpa pemberitahu
 <li>
 Dengan membeli berarti buyer setuju dengan S&K yang terlah ditetapkan, Harap mematuhi aturan hukum yang berlaku    
 </li>
-
+<br/>
 <pre>
-[?] Instagram: deem_ofc
-[?] Whatsapp:  081578857166
+[?] Instagram: <a href="https://instagram com/deem_ofc">deem_ofc</a>
+[?] Whatsapp:  <a href="https://wa.me/6281578857166">081578857166</a>
 [?] Twitter:   [belum tersedia]
-[?] Fb Pages:  [belum tersedia]
+[?] Fb Pages:  <a href="https://www.facebook.com/DEEM-Ofc-108242441736310/">DEEM Ofc</a>
 
 
 Regards,
