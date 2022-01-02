@@ -1,4 +1,5 @@
 # Syarat dan ketentuan DEEM
+<img src="./DEEM.png" width="100%"/>
 <pre>
 > Produk hanya berlaku untuk server Indonesia
 > Mohon untuk menghubungi seller sebelum melakukan tranfer
