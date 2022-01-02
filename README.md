@@ -1,6 +1,6 @@
 # Syarat dan ketentuan DEEM
 <img src="./DEEM.png" width="100%"/>
-<pre>
+<p>
 > Produk hanya berlaku untuk server Indonesia
 > Mohon untuk menghubungi seller sebelum melakukan tranfer
 > Garansi uang kembali 100% apabila terjadi kesalahan dari kami dengan maksimal penaguhan 1x24 Jam
@@ -18,4 +18,4 @@
 Regards,
 
 DEEM Owner.
-</pre>
+</p>
