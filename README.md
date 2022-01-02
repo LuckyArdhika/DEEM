@@ -21,7 +21,7 @@ Dengan membeli berarti buyer setuju dengan S&K yang terlah ditetapkan, Harap mem
 </li>
 </ol>
 <h3>Rule Of Diamonds</h3>
-<P>Apabila anda ingin menyelesaikan misi, anda dapat membeli paket dengan jumlah diamond yang lebih tinggi, diamond bonus tidak terhitung dalam misi topup.</P>
+<P>Apabila anda ingin menyelesaikan misi, anda dapat membeli paket dengan jumlah diamond yang lebih tinggi, diamond reguler terhitung tetapi diamond bonus tidak terhitung dalam misi topup.</P>
 <b>Format: Total Diamond (Diamond Reguler + Diamond Bonus)</b>
 <ul>
 <li>
