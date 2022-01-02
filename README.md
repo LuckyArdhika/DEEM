@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Syarat dan ketentuan DEEM
+<h1>S&K DEEM</h1>
+<pre>
+> Produk hanya berlaku untuk server Indonesia
+> Mohon untuk menghubungi seller sebelum melakukan tranfer
+> Garansi uang kembali 100% apabila terjadi kesalahan dari kami dengan maksimal penaguhan 1x24 Jam
+> DEEM tidak akan bertanggung jawab atas kesalahan dari buyer, seperti: kesalahan penulisan id dan server, kesalahan transfer ke luar dari rekening yang telah di tetapkan DEEM, dll
+> DEEM sewaktu waktu berhak merubah persyaratan dan harga produk tanpa pemberitahuan sebelumnya
+> Dengan membeli berarti buyer setuju dengan S&K yang terlah ditetapkan, Harap mematuhi aturan hukum yang berlaku
 
-You can use the [editor on GitHub](https://github.com/LuckyArd110/DEEM/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+[?] Instagram: deem_ofc
+[?] Whatsapp:  081578857166
+[?] Twitter:   [belum tersedia]
+[?] Fb Pages:  [belum tersedia]
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Regards,
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LuckyArd110/DEEM/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+DEEM Owner.
+</pre>
