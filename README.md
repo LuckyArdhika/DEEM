@@ -19,6 +19,36 @@ DEEM sewaktu waktu berhak merubah persyaratan dan harga produk tanpa pemberitahu
 <li>
 Dengan membeli berarti buyer setuju dengan S&K yang terlah ditetapkan, Harap mematuhi aturan hukum yang berlaku    
 </li>
+</ol>
+<h3>Rule Of Diamonds</h3>
+<P>Apabila anda ingin menyelesaikan misi, anda dapat membeli paket dengan jumlah diamond yang lebih tinggi, diamond bonus tidak terhitung dalam misi topup.</P>
+<b>Format: Total Diamond (Diamond Reguler + Diamond Bonus)</b>
+<ul>
+<li>
+  86 DM (78+8)
+</li>
+<li>
+  172 DM (156+16)
+</li>
+<li>
+  257 DM (234+23)
+</li>
+<li>
+  344 DM (312+32)
+</li>
+  <li>
+  429 DM (390+39)
+</li>
+  <li>
+  514 DM (468+46)
+</li>
+  <li>
+  706 DM (625+81)
+</li>
+  <li>
+  878 DM (781+97)
+</li>
+</ul>
 <br/>
 <pre>
 [?] Instagram: <a href="https://instagram com/deem_ofc">deem_ofc</a>
@@ -31,4 +61,3 @@ Regards,
 
 DEEM Owner.
 </pre>
-</ol>
